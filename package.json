@@ -8,9 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/d8web/teste"
+    "url": "git+https://github.com/d8web/teste.git"
   },
   "keywords": [],
-  "author": "this_dev",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d8web/teste/issues"
+  },
+  "homepage": "https://github.com/d8web/teste#readme"
 }
